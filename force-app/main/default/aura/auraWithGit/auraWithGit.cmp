@@ -1,4 +1,5 @@
 <aura:component implements="force:appHostable,force:hasRecordId,forceCommunity:availableForAllPageTypes">
 
 <lightning:button variant="brand" label="Click"></lightning:button>
+<lightning:button variant="brand" label="Enter Key"></lightning:button>
 </aura:component>	
