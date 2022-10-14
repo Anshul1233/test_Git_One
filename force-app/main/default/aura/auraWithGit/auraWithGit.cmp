@@ -2,5 +2,4 @@
 
 <lightning:button variant="brand" label="Click"></lightning:button>
 <lightning:button variant="brand" label="Enter Key"></lightning:button>
-<lightning:button variant="brand" label="Switch"></lightning:button>
 </aura:component>	
